@@ -25,6 +25,8 @@ docs/xontribsbody
 docs/eventsbody
 xonsh/dev.githash
 xontrib/__init__.py
+result
+flake.lock
 
 # temporary files from vim and emacs
 *~
