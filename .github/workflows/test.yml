@@ -24,7 +24,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
-      maxtrix:
+      matrix:
         os:
           - ubuntu-latest
           - macOS-latest
